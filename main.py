@@ -25,6 +25,9 @@ class SignUpScreen(Screen):
              json.dump(users,file)
         print (users)
 
+
+         print ("nueva linea ")    
+
 class MainApp(App):
     def build(self):
         return RootWidget()
