@@ -1,17 +1,1 @@
-{
-    "user1": {
-        "username": "user1",
-        "password": "password1",
-        "created": "2020-07-07 00:16:28.293901"
-    },
-    "user2": {
-        "username": "user2",
-        "password": "password2",
-        "created": "2020-07-07 00:28:07.315781"
-    },
-    "u1": {
-        "username": "u1",
-        "password": "u2",
-        "created": "2021-02-24 18-47-05"
-    }
-}
+{"user1": {"username": "user1", "password": "password1", "created": "2020-07-07 00:16:28.293901"}, "user2": {"username": "user2", "password": "password2", "created": "2020-07-07 00:28:07.315781"}, "u1": {"username": "u1", "password": "u2", "created": "2021-02-24 18-47-05"}, "p1": {"username": "p1", "password": "p2", "created": "2021-02-27 12-05-55"}}
