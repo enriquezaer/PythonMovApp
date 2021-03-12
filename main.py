@@ -23,7 +23,8 @@ class SignUpScreen(Screen):
 
         with open('users.json', 'w') as file:
              json.dump(users,file)
-        print(users)     
+        print(users)   
+          
         self.manager.current = "sign_up_screen_success"
 
 class SignUpScreenSuccess(Screen):
